@@ -1,0 +1,3 @@
+/mnt/c/Users/ps/Downloads/narjes/programming/cc/project/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/ps/Downloads/narjes/programming/cc/project/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ps/Downloads/narjes/programming/cc/project/build/CMakeFiles/app.dir
